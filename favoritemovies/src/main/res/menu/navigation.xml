@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  * Created by ade supyan abdul aziz.
+  ~  * Copyright (c) 2019. All rights reserved.
+  ~  * Last modified 25/08/19 21:54 PM.
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_movie"
+        android:icon="@drawable/ic_movie"
+        android:title="movies" />
+    <item
+        android:id="@+id/navigation_tv"
+        android:icon="@drawable/ic_tv"
+        android:title="tv" />
+</menu>

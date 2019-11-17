@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  * Created by ade supyan abdul aziz.
+  ~  * Copyright (c) 2019. All rights reserved.
+  ~  * Last modified 25/08/19 21:54 PM.
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dicoding.dhe.favoritemovies">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="com.dicoding.dhe.moviecatalog.READ_WRITE_MOVIES" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/favorite"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.DetailActivity"
+            android:parentActivityName=".MainActivity" />
+    </application>
+
+</manifest>

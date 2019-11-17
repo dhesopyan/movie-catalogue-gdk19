@@ -1,0 +1,17 @@
+<!--
+  ~  * Created by ade supyan abdul aziz.
+  ~  * Copyright (c) 2019. All rights reserved.
+  ~  * Last modified 25/08/19 21:54 PM.
+  -->
+
+<resources>
+    <string name="app_name">Favorit</string>
+    <string name="dislike">Tidak Suka</string>
+    <string name="language">Bahasa</string>
+    <string name="movie">Film</string>
+    <string name="television">Serial Tv</string>
+    <string name="popularity">Kepopuleran</string>
+    <string name="rating">Tingkat Suara</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="overview">Kilasan Singkat</string>
+</resources>

@@ -1,0 +1,17 @@
+<!--
+  ~  * Created by ade supyan abdul aziz.
+  ~  * Copyright (c) 2019. All rights reserved.
+  ~  * Last modified 25/08/19 21:54 PM.
+  -->
+
+<resources>
+    <string name="app_name">Favorite</string>
+    <string name="dislike">Dislike</string>
+    <string name="language">Language</string>
+    <string name="movie">Movie</string>
+    <string name="television">Tv Show</string>
+    <string name="popularity">Popularity</string>
+    <string name="rating">Rating</string>
+    <string name="release">Runtime</string>
+    <string name="overview">Overview</string>
+</resources>

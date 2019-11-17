@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~  * Created by ade supyan abdul aziz.
+  ~  * Copyright (c) 2019. All rights reserved.
+  ~  * Last modified 25/08/19 21:54 PM.
+  -->
+
+<resources>
+    <dimen name="gap_small">8dp</dimen>
+    <dimen name="gap_large">16dp</dimen>
+</resources>
