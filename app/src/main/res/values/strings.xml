@@ -1,0 +1,57 @@
+<!--
+  ~  * Created by ade supyan abdul aziz.
+  ~  * Copyright (c) 2019. All rights reserved.
+  ~  * Last modified 25/08/19 21:54 PM.
+  -->
+
+<resources>
+    <!-- Activity -->
+    <string name="app_name">Movie Catalog 5</string>
+    <string name="change_language">Change Language</string>
+    <string name="no_internet">No Internet connection!</string>
+    <string name="check_internet">please check your internet connection!</string>
+    <string name="favorite">Favorite</string>
+    <string name="english">English</string>
+    <string name="indonesian">Indonesian</string>
+
+    <!-- Search Activity -->
+    <string name="search">Search</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search_tv">Search Tv</string>
+
+    <!-- Fragment -->
+    <string name="movie">Movie</string>
+    <string name="television">TV Show</string>
+
+    <!-- Detail Activity -->
+    <string name="name_movie">Movie Name</string>
+    <string name="overview">Overview</string>
+    <string name="japan">Japan</string>
+    <string name="status">Status</string>
+    <string name="language">Original Language</string>
+    <string name="rating">Vote Rate</string>
+    <string name="release">Release Date</string>
+    <string name="popularity">Popularity</string>
+    <string name="delete">Delete</string>
+    <string name="like">You Liked It!</string>
+    <string name="dislike">You Dislike It!</string>
+
+    <!-- Widget -->
+    <string name="appwidget_text">Favorite</string>
+    <string name="empty_text">Empty</string>
+    <string name="add_widget">Add widget</string>
+
+    <!-- Settings -->
+    <string name="key_reminder_daily" translatable="false">reminder_daily</string>
+    <string name="key_reminder_release" translatable="false">reminder_release</string>
+    <string name="action_notification">Notification</string>
+    <string name="label_daily_reminder">Daily Reminder Notification</string>
+    <string name="label_release_reminder">Release Reminder Notification</string>
+    <string name="label_activated">activated!</string>
+    <string name="label_deactivated">deactivated!</string>
+    <string name="label_alarm_daily_reminder">Good morning! There are lots of interesting films today.</string>
+    <string name="label_alarm_release_reminder">Good morning! There are no release movie today.</string>
+    <string name="settings">settings</string>
+</resources>
+
+
