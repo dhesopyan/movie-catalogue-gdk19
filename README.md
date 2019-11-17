@@ -1,2 +1,2 @@
-# movie-catalogue-gdk19
-Final Submission GDK 2019
+# Deskripsi
+Final Submission GDK 2019, repository ini berisi final submission menggunakan bahasa java dan belum menggunakan arsitektur
